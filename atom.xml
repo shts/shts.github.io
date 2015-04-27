@@ -4,7 +4,7 @@
   <title><![CDATA[shts's blog]]></title>
   <link href="http://shts.github.io/atom.xml" rel="self"/>
   <link href="http://shts.github.io/"/>
-  <updated>2015-04-27T23:50:11+09:00</updated>
+  <updated>2015-04-28T00:13:24+09:00</updated>
   <id>http://shts.github.io/</id>
   <author>
     <name><![CDATA[Shota Saito]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://shts.github.io/blog/2015/04/28/test/"/>
+    <updated>2015-04-28T00:11:37+09:00</updated>
+    <id>http://shts.github.io/blog/2015/04/28/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
